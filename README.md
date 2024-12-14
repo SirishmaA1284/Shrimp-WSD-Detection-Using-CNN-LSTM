@@ -1,6 +1,6 @@
 # Automated Detection System for White Spot Disease (WSD) in Shrimp Aquaculture
 
-This repository contains the implementation of an **Automated Detection System for White Spot Disease (WSD) in Shrimp Aquaculture** using **Deep Learning** techniques. The project addresses the significant challenge posed by WSD, a viral infection that causes high mortality rates in shrimp farming, leading to severe economic losses.
+This project contains the implementation of an **Automated Detection System for White Spot Disease (WSD) in Shrimp Aquaculture** using **Deep Learning** techniques. The project addresses the significant challenge posed by WSD, a viral infection that causes high mortality rates in shrimp farming, leading to severe economic losses.
 
 ## Key Features
 - **Hybrid CNN-LSTM Model:** Combines spatial feature extraction (CNN - ResNet50) and sequential modeling (LSTM) for robust disease classification.
